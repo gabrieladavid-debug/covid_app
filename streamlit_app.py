@@ -29,11 +29,11 @@ fig, ax = plt.subplots()
 
 col1, col2, col3 = st.columns([1,3,1])
 
-col1.image("logouprh.png",width=150)
+col1.image("https://github.com/elioramospr/hola_streamlit_mj/blob/main/logouprh.png?raw=true",width=150)
 
 col2.title("Datos de Covid - Variante Omicrón")
 
-col3.image("covid.png".png",width=150)
+col3.image("https://github.com/elioramospr/hola_streamlit_mj/blob/main/covid.png?raw=true".png",width=150)
 
 ##############################################
 ## esto es para que salga una linea horizontal
