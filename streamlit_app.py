@@ -33,7 +33,7 @@ col1.image("https://github.com/elioramospr/hola_streamlit_mj/blob/main/logouprh.
 
 col2.title("Datos de Covid - Variante Omicrón")
 
-col3.image("https://github.com/elioramospr/hola_streamlit_mj/blob/main/covid.png?raw=true".png",width=150)
+col3.image("https://github.com/elioramospr/hola_streamlit_mj/blob/main/covid.png?raw=true.png",width=150)
 
 ##############################################
 ## esto es para que salga una linea horizontal
